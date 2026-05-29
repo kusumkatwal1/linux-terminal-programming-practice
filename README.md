@@ -21,12 +21,12 @@ Hands-on Linux terminal practice covering commands, shell scripting, permissions
 
 ## Skills Developed
 Through this repository, I am developing practical skills in:
-  - Linux command-line usage
-  - Terminal navigation
-  - Shell scripting
-  - File and permission management
-  - System troubleshooting
-  - Remote server workflows
-  - Automation basics
-  - Technical documentation
+      - Linux command-line usage
+      - Terminal navigation
+      - Shell scripting
+      - File and permission management
+      - System troubleshooting
+      - Remote server workflows
+      - Automation basics
+      - Technical documentation
 
