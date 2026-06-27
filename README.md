@@ -30,6 +30,8 @@ Through this repository, I am developing practical skills in:
         -  Automation basics
         -  Technical documentation
 
-## Structure
+## Structure:
+    README.md
+    
 
 © 2025 Kusum Katwal
