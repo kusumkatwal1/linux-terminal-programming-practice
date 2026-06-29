@@ -31,7 +31,7 @@ Through this repository, I am developing practical skills in:
         -  Technical documentation
 
 ## Structure:
-    - README.md :throughout guide
+    - README.md :this file contains the whole guide
     - Linux-basics.md :
 
 © 2025 Kusum Katwal
