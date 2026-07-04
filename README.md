@@ -30,8 +30,8 @@ Through this repository, I am developing practical skills in:
         -  Automation basics
         -  Technical documentation
 
-## Structure:
-    - README.md: This file contains the guidelines for the learning progress
+## File Structure:
+    - README.md: This file contains the guidelines for the linux learning progress
     - Linux-basics.md: content for the linux basic
 
 © 2025 Kusum Katwal
