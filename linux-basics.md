@@ -9,3 +9,6 @@
 
   #### 3.Change Directory(cd):
   - cd
+    
+#### 4. Make Directory(mkdir):
+ - mkdir
