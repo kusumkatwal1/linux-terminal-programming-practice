@@ -32,6 +32,6 @@ Through this repository, I am developing practical skills in:
 
 ## File Structure:
     - "README.md": This file contains the guidelines for the Linux learning progress
-    - "Linux-basics.md": content for the linux basic
+    - "Linux-basics.md": this file contains content for the linux basic.
 
 © 2025 Kusum Katwal
