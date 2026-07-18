@@ -3,5 +3,7 @@
 
   ### 1. 
   - pwd: Shows your current/working directory.
+
+  ##### List(ls):
   - ls
   - cd
