@@ -20,7 +20,11 @@
 
   #### 3.Change Directory(cd):
   - cd: It moves you from one directory to another.
-  - syntax: "cd .. i.e. (one-directory)" || "cd or cd~ i.e (home_directory)" || "cd / i.e. (root_dir)" || "cd - i.e. (previous_directory)"
+  - syntax: "cd .. i.e. (one-directory)" || "cd or cd~ i.e (home_directory)" || "cd / i.e. (root_dir)" || "cd - i.e. (previous_directory)."
+  - eg:
+      - input:student@linux:~$ cd Documents
+              student@linux:~/Documents$ pwd
+              /home/student/Documents
     
 #### 4. Make Directory(mkdir):
  - mkdir
