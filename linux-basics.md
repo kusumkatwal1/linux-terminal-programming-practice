@@ -8,8 +8,8 @@
   - pwd: Shows your current/working directory.
   - syntax: "pwd"
   - eg:
-      input: pwd
-      output: /home/student
+      - input: pwd
+      - output: /home/student
 
   #### 2. List(ls):
   - ls: It displays a list of files and directories.
