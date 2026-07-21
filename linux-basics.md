@@ -15,8 +15,8 @@
   - ls: It displays a list of files and directories.
   - syntax: "ls" || "ls -l" =>detailed info || "ls -a"=> hidden files
   - eg:
-      input: ls
-      output: Documents Downloads linux-project Pictures
+      - input: ls
+      - output: Documents Downloads linux-project Pictures
 
   #### 3.Change Directory(cd):
   - cd
