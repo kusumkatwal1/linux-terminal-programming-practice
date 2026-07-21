@@ -2,7 +2,7 @@
   Learn what Linux is, why it is used, and how the terminal works.
 ### * Navigating the Linux Filesystem:
   - means moving between directories and finding files on a Linux system.
-  - "directories" = "folders".
+  - "directories" = "folders". i.e "**/ directory**"
   #### 1. PWD:
   - pwd: Shows your current/working directory.
 
