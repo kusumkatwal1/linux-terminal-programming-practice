@@ -1,4 +1,4 @@
-## 1. Linux Basics:
+## Linux Basics:
   Learn what Linux is, why it is used, and how the terminal works.
 ### # Navigating the Linux Filesystem:
   - means moving between directories and finding files on a Linux system.
