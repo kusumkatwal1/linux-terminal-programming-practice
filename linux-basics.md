@@ -1,4 +1,5 @@
 ## 1. Linux Basics:
+### Navigating the Linux Filesystem:
   Learn what Linux is, why it is used, and how the terminal works.
 
   #### 1. PWD:
