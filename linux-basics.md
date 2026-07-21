@@ -27,4 +27,4 @@
       -  /home/student/Documents
     
 #### 4. Make Directory(mkdir):
- - mkdir
+ - mkdir: It creates a new directory.
