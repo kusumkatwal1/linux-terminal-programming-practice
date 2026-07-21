@@ -1,7 +1,6 @@
 ## 1. Linux Basics:
-### Navigating the Linux Filesystem:
   Learn what Linux is, why it is used, and how the terminal works.
-
+### Navigating the Linux Filesystem:
   #### 1. PWD:
   - pwd: Shows your current/working directory.
 
