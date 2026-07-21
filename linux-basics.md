@@ -19,7 +19,8 @@
       - output: Documents Downloads linux-project Pictures
 
   #### 3.Change Directory(cd):
-  - cd
+  - cd: It moves you from one directory to another.
+  - syntax: "cd .. i.e. (one-directory)" || "cd or cd~ i.e (home_directory)" || "cd / i.e. (root_dir)" || "cd - i.e. (previous_directory)"
     
 #### 4. Make Directory(mkdir):
  - mkdir
