@@ -40,16 +40,17 @@
 ## Complete Terminal Session
   i. student@linux:~$ pwd
   - /home/student
+
   ii. student@linux:~$ mkdir -p linux-handbook/{notes,scripts,exercises,projects}
   
-  c.student@linux:~$ cd linux-handbook
+  iii.student@linux:~$ cd linux-handbook
   
-  d. student@linux:~/linux-handbook$ touch README.md notes/linux-basics.md scripts/hello.sh
+  iv. student@linux:~/linux-handbook$ touch README.md notes/linux-basics.md scripts/hello.sh
   
-  e. student@linux:~/linux-handbook$ ls
+  v. student@linux:~/linux-handbook$ ls
   - README.md  exercises  notes  projects  scripts
   
-  f. student@linux:~/linux-handbook$ ls notes
+  vi. student@linux:~/linux-handbook$ ls notes
   - linux-basics.md
   
   g.student@linux:~/linux-handbook$ ls scripts
