@@ -34,3 +34,5 @@
    
 #### 5.Touch(file create)
 -It creates an empty file.
+- syntax: "touch"
+- eg: 
