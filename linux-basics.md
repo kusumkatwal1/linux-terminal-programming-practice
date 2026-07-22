@@ -38,10 +38,10 @@
     - eg: touch file1.txt file2.txt file3.txt  (can create multiple at the same time)
 
 ## Complete Terminal Session
-  a.student@linux:~$ pwd
+  - student@linux:~$ pwd
   - /home/student
   
-  b.student@linux:~$ mkdir -p linux-handbook/{notes,scripts,exercises,projects}
+  - student@linux:~$ mkdir -p linux-handbook/{notes,scripts,exercises,projects}
   
   c.student@linux:~$ cd linux-handbook
   
