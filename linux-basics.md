@@ -39,7 +39,7 @@
 
 ## Complete Terminal Session
   a.student@linux:~$ pwd
-     - /home/student
+  - /home/student
   
   b.student@linux:~$ mkdir -p linux-handbook/{notes,scripts,exercises,projects}
   
@@ -48,10 +48,10 @@
   d. student@linux:~/linux-handbook$ touch README.md notes/linux-basics.md scripts/hello.sh
   
   e. student@linux:~/linux-handbook$ ls
-     - README.md  exercises  notes  projects  scripts
+  - README.md  exercises  notes  projects  scripts
   
   f. student@linux:~/linux-handbook$ ls notes
-     - linux-basics.md
+  - linux-basics.md
   
   g.student@linux:~/linux-handbook$ ls scripts
-     - hello.sh
+  - hello.sh
