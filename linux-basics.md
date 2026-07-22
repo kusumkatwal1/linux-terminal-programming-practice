@@ -27,10 +27,10 @@
         -  /home/student/Documents
       
   #### 4. Make Directory(mkdir):
-   - mkdir: It creates a new directory.
-   - syntax: "mkdir"
-   - eg:
-         mkdir linux-lab
+     - mkdir: It creates a new directory.
+     - syntax: "mkdir"
+     - eg:
+           mkdir linux-lab
      
   #### 5.Touch(file create)
     -It creates an empty file.
