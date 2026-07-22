@@ -31,3 +31,6 @@
  - syntax: "mkdir"
  - eg:
        mkdir linux-lab
+   
+#### 5.Touch(file create)
+-It creates an empty file.
