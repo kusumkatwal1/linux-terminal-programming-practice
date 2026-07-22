@@ -11,7 +11,7 @@
         - input: pwd
         - output: /home/student
   
-    #### 2. List(ls):
+    #### 2. **List(ls)**:
     - ls: It displays a list of files and directories.
     - syntax: "ls" || "ls -l" =>detailed info || "ls -a"=> hidden files
     - eg:
