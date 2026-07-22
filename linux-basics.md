@@ -28,3 +28,4 @@
     
 #### 4. Make Directory(mkdir):
  - mkdir: It creates a new directory.
+ - syntax: "mkdir"
