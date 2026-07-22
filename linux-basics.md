@@ -35,4 +35,4 @@
 #### 5.Touch(file create)
 -It creates an empty file.
 - syntax: "touch"
-- eg: 
+- eg: touch file1.txt file2.txt file3.txt  (can create multiple at same time)
