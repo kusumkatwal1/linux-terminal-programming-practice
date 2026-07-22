@@ -35,4 +35,23 @@
   #### 5.Touch(file create)
     -It creates an empty file.
     - syntax: "touch"
-    - eg: touch file1.txt file2.txt file3.txt  (can create multiple at same time)
+    - eg: touch file1.txt file2.txt file3.txt  (can create multiple at the same time)
+
+## Complete Terminal Session
+  student@linux:~$ pwd
+  /home/student
+  
+  student@linux:~$ mkdir -p linux-handbook/{notes,scripts,exercises,projects}
+  
+  student@linux:~$ cd linux-handbook
+  
+  student@linux:~/linux-handbook$ touch README.md notes/linux-basics.md scripts/hello.sh
+  
+  student@linux:~/linux-handbook$ ls
+  README.md  exercises  notes  projects  scripts
+  
+  student@linux:~/linux-handbook$ ls notes
+  linux-basics.md
+  
+  student@linux:~/linux-handbook$ ls scripts
+hello.sh
