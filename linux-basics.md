@@ -3,6 +3,7 @@
 ### # Navigating the Linux Filesystem:
   - means moving between directories and finding files on a Linux system.
   - "directories" = "folders". i.e "**/ directory**"
+    
 ### # Major Commands:
   #### 1. PWD:
     - pwd: Shows your current/working directory.
@@ -33,7 +34,7 @@
            mkdir linux-lab
      
   #### 5.Touch(file create)
-    -It creates an empty file.
+    - It creates an empty file.
     - syntax: "touch"
     - eg: touch file1.txt file2.txt file3.txt  (can create multiple at the same time)
 
