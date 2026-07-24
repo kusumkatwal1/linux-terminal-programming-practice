@@ -55,3 +55,14 @@
     
     g.student@linux:~/linux-handbook$ ls scripts
     - hello.sh
+
+## Topic Cheat Sheet
+
+  | Command    | Purpose                   | Example            |
+  | ---------- | ------------------------- | ------------------ |
+  | `pwd`      | Show current directory    | `pwd`              |
+  | `ls`       | List files                | `ls -la`           |
+  | `cd`       | Change directory          | `cd Documents`     |
+  | `mkdir`    | Create directory          | `mkdir projects`   |
+  | `mkdir -p` | Create nested directories | `mkdir -p app/src` |
+  | `touch`    | Create an empty file      | `touch README.md`  |
