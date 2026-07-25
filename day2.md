@@ -8,5 +8,7 @@
 
 #### 3. rm(remove):
 
+#### 4. rmdir(remove-directory):
+
 
 
