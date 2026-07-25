@@ -1,1 +1,4 @@
-# Managing Files and Directories
+# Managing Files and Directories:
+- Organizing files and directories on a Linux system.
+
+
