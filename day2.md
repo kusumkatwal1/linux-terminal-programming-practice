@@ -2,7 +2,9 @@
 - Organizing files and directories on a Linux system.
 
 ### Commands:
-#### 1. CP:
+#### 1. cp(copy):
+
+#### 2.mv(move):
 
 
 
