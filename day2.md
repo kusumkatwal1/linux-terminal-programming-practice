@@ -4,8 +4,8 @@
 ### Commands:
 #### 1. cp(copy):
 - Creates a copy of a file or directory, without changing the original item.
-- Basic Syntax:  "cp SOURCE DESTINATION"
-                - e.g.: cp notes.txt notes-backup.txt
+- Basic Syntax: "cp SOURCE DESTINATION"
+- e.g.: cp notes.txt notes-backup.txt
 
 #### 2.mv(move):
 
