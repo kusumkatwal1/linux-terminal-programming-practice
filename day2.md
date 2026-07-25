@@ -3,6 +3,7 @@
 
 ### Commands:
 #### 1. cp(copy):
+- Creates a copy of a file or directory, without changing the original item.
 
 #### 2.mv(move):
 
