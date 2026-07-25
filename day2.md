@@ -9,6 +9,7 @@
 
 #### 2.mv(move):
 - Renames/Moves a file or directory to another location.
+- Basic Syntax:  "mv SOURCE DESTINATION"
 
 #### 3. rm(remove):
 
