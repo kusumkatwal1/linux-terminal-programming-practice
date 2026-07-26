@@ -14,7 +14,9 @@
 
 #### 3. rm(remove):
 - remove/deletes files and, with an option, directories.
-- 
+- Syntax: "rm FILE"
+- E.g.: "rm temporary.txt"
+
 
 #### 4. rmdir(remove-directory):
 
