@@ -22,7 +22,8 @@
 - Removes empty directories.
 - The directory has to be empty.
 - Basic Syntax: rmdir DIRECTORY
-- e.g.: "rmdir  documents" 
+- e.g.: "rmdir  documents"
+##### rm -r directory: removes/delete the directory and everything inside it.
 
 
 
