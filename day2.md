@@ -20,7 +20,9 @@
 
 #### 4. rmdir(remove-directory):
 - Removes empty directories.
+- The directory has to be empty.
 - Basic Syntax: rmdir DIRECTORY
+- e.g.: "rmdir  documents" 
 
 
 
