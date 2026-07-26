@@ -10,9 +10,11 @@
 #### 2.mv(move):
 - Renames/Moves a file or directory to another location.
 - Basic Syntax:  "mv SOURCE DESTINATION"  or for multiple
-              =>  "mv report.txt commands.txt exercise.txt documents/." 
+- For multiple: "mv report.txt commands.txt exercise.txt documents/." 
 
 #### 3. rm(remove):
+- remove/deletes files and, with an option, directories.
+- 
 
 #### 4. rmdir(remove-directory):
 
