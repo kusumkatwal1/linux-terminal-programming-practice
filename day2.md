@@ -8,22 +8,22 @@
     - e.g.:         "cp notes.txt notes-backup.txt"
 
 #### 2.mv(move):
-  - Renames/Moves a file or directory to another location.
-  - Basic Syntax:  "mv SOURCE DESTINATION"  or for multiple
-  - For multiple: "mv report.txt commands.txt exercise.txt documents/." 
+      - Renames/Moves a file or directory to another location.
+      - Basic Syntax:  "mv SOURCE DESTINATION"  or for multiple
+      - For multiple: "mv report.txt commands.txt exercise.txt documents/." 
 
 #### 3. rm(remove):
-  - remove/deletes files and, with an option, directories.
-  - Syntax: "rm FILE"
-  - E.g.: "rm temporary.txt"
+      - remove/deletes files and, with an option, directories.
+      - Syntax: "rm FILE"
+      - E.g.: "rm temporary.txt"
 
 
   #### 4. rmdir(remove-directory):
-  - Removes empty directories.
-  - The directory has to be empty.
-  - Basic Syntax: rmdir DIRECTORY
-  - e.g.: "rmdir  documents"
-  - ##### rm -r directory: removes/delete the directory and everything inside it.
+      - Removes empty directories.
+      - The directory has to be empty.
+      - Basic Syntax: rmdir DIRECTORY
+      - e.g.: "rmdir  documents"
+      - ##### rm -r directory: removes/delete the directory and everything inside it.
 
 
 
