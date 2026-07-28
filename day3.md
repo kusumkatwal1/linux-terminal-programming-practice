@@ -23,10 +23,12 @@
     - Basic Syntax: "tail FILE"
     - To stop: "Ctrl+C"
 
-          | **Situation**                                          | ** Command** |
-          | ------------------------------------------------------ | ----------------------- |
-          | Read a short file or combine files                     | `cat`                   |
-          | Read a long file interactively or search while reading | `less`                  |
-          | Preview the beginning of a file or check CSV headers   | `head`                  |
-          | Inspect the latest lines or recent errors              | `tail`                  |
-          | Monitor a changing log file                            | `tail -f` or `tail -F`  |
+
+| **Situation**                                          | **Recommended Command** |
+| ------------------------------------------------------ | ----------------------- |
+| Read a short file or combine files                     | `cat`                   |
+| Read a long file interactively or search while reading | `less`                  |
+| Preview the beginning of a file or check CSV headers   | `head`                  |
+| Inspect the latest lines or recent errors              | `tail`                  |
+| Monitor a changing log file                            | `tail -f` or `tail -F`  |
+
