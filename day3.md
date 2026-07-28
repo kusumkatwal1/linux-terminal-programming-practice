@@ -32,3 +32,7 @@
 | Inspect the latest lines or recent errors              | `tail`                  |
 | Monitor a changing log file                            | `tail -f` or `tail -F`  |
 
+
+
+
+@Kusum Katwal
