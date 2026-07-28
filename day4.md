@@ -3,8 +3,15 @@
 
 ### Command:
 #### 1. Find:
-  - searches directories and their subdirectories and checks the filesystem directly.
+  - Searches directories and their subdirectories and checks the filesystem directly.
   - Basic Syntax: "find STARTING_PATH CONDITIONS"
   - eg: "find ~/search-lab -name "linux-notes.txt"
+
+
 #### 2. Locate:
+  - Searches for paths using a prebuilt database.
+  - Basic Syntax: "locate SEARCH_TERM"
+  - eg: "locate app.conf"
+
+
 #### 3.Grep: 
