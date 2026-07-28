@@ -15,3 +15,6 @@
 
 
 #### 3.Grep: 
+  - Searches for text patterns.
+  - It can search: a single file/Multiple files/Entire directory trees/Command output/Logs/Configuration files/Source code.
+  - Basic Syntax: "grep PATTERN FILE"
