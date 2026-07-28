@@ -26,3 +26,5 @@
 | `locate`    | Search quickly using a filename database       |
 | `grep`      | Search for text inside files or command output |
 
+
+@Kusum Katwal
