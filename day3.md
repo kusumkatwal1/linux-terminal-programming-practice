@@ -8,5 +8,6 @@
 #### 2. less():
   - less opens a file in an interactive viewer(to move/jumpy/search/read large file).
   - Basic Syntax: "less FILE"
+  - Eg: "less handbook.txt"
 #### 3. head
 #### 4. tail
