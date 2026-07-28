@@ -18,3 +18,11 @@
   - Searches for text patterns.
   - It can search: a single file/Multiple files/Entire directory trees/Command output/Logs/Configuration files/Source code.
   - Basic Syntax: "grep PATTERN FILE"
+
+
+| **Command** | **Main Purpose**                               |
+| ----------- | ---------------------------------------------- |
+| `find`      | Search for files and directories in real time  |
+| `locate`    | Search quickly using a filename database       |
+| `grep`      | Search for text inside files or command output |
+
