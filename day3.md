@@ -4,7 +4,8 @@
 ### Commands:
 #### 1. cat(Concatenate):
   - commonly used to display files, but its original purpose is to combine file contents.
-  - Syntax: "cat FILE" || "Display Multiple Files": cat linux.txt handbook.txt
+  - Syntax: "cat FILE" || Display Multiple Files => "cat linux.txt handbook.txt"
 #### 2. less():
+  - less opens a file in an interactive viewer.
 #### 3. head
 #### 4. tail
