@@ -2,7 +2,9 @@
 - means reading the contents of a file directly from the Linux terminal.
 
 ### Commands:
-#### 1. cat
-#### 2. less
+#### 1. cat(Concatenate):
+  - commonly used to display files, but its original purpose is to combine file contents.
+  - Syntax: "cat FILE" || "Display Multiple Files": cat linux.txt handbook.txt
+#### 2. less():
 #### 3. head
 #### 4. tail
