@@ -18,4 +18,7 @@
   - displays the beginning of a file(first 10 line).
   - Basic Syntax: "head FILE"
 
-#### 4. tail
+#### 4. tail:
+  - tail displays the end of a file(last 10 lines).
+  - Basic Syntax: "tail FILE"
+  - to stop: "Ctrl+C"
