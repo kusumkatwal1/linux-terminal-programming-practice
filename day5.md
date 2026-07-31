@@ -24,3 +24,4 @@
 
 #### 6. tee:
   - Displays command output on the screen and saves it to a file at the same time.
+  - Basic Syntax: "COMMAND | tee FILE"
