@@ -3,25 +3,25 @@
 
 ### Commands:
 #### 1. sort:
-  - Sorts lines in a file alphabetically, numerically, or in a custom order.
-  - Basic Syntax: "sort FILE"
+    - Sorts lines in a file alphabetically, numerically, or in a custom order.
+    - Basic Syntax: "sort FILE"
 
 #### 2. uniq:
-  - Removes adjacent duplicate lines (sort the file first if duplicates are not together).
-  - Basic Example: "sort colors.txt | uniq"
+    - Removes adjacent duplicate lines (sort the file first if duplicates are not together).
+    - Basic Example: "sort colors.txt | uniq"
 
-#### 3. wc(qord-count):
-  - Counts the number of lines, words, characters, or bytes in a file.
-  - Basic Syntax: "wc FILE"
+#### 3. wc(word-count):
+    - Counts the number of lines, words, characters, or bytes in a file.
+    - Basic Syntax: "wc FILE"
 
 #### 4. cut: 
-  - Extracts selected columns or fields from each line of a file.
-  - Basic Syntax: "cut OPTIONS FILE"
+    - Extracts selected columns or fields from each line of a file.
+    - Basic Syntax: "cut OPTIONS FILE"
 
 #### 5. tr:
-  - Replaces, removes, squeezes, or translates characters in text.
-  - Example: "echo "linux handbook" | tr 'a-z' 'A-Z'"
+    - Replaces, removes, squeezes, or translates characters in text.
+    - Example: "echo "linux handbook" | tr 'a-z' 'A-Z'"
 
 #### 6. tee:
-  - Displays command output on the screen and saves it to a file at the same time.
-  - Basic Syntax: "COMMAND | tee FILE"
+    - Displays command output on the screen and saves it to a file at the same time.
+    - Basic Syntax: "COMMAND | tee FILE"
