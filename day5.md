@@ -3,7 +3,8 @@
 
 ### Commands:
 #### 1. sort 
-
+  - Sorts lines in a file alphabetically, numerically, or in a custom order.
+  - Basic Syntax: "sort FILE"
 
 #### 2. uniq 
 
@@ -14,4 +15,4 @@
 
 #### 5. tr 
 
-#### 6.tee
+#### 6. tee
