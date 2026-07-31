@@ -18,6 +18,9 @@
   - Extracts selected columns or fields from each line of a file.
   - Basic Syntax: "cut OPTIONS FILE"
 
-#### 5. tr 
+#### 5. tr:
+  - Replaces, removes, squeezes, or translates characters in text.
+  - Example: "echo "linux handbook" | tr 'a-z' 'A-Z'"
 
-#### 6. tee
+#### 6. tee:
+  - 
