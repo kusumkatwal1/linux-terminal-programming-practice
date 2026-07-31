@@ -10,7 +10,9 @@
   - Removes adjacent duplicate lines (sort the file first if duplicates are not together).
   - Basic Example: "sort colors.txt | uniq"
 
-#### 3. wc 
+#### 3. wc(qord-count):
+  - Counts the number of lines, words, characters, or bytes in a file.
+  - Basic Syntax: "wc FILE"
 
 #### 4. cut 
 
