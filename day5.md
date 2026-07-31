@@ -16,6 +16,7 @@
 
 #### 4. cut: 
   - Extracts selected columns or fields from each line of a file.
+  - Basic Syntax: "cut OPTIONS FILE"
 
 #### 5. tr 
 
