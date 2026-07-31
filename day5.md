@@ -3,6 +3,11 @@
 
 ### Commands:
 #### 1. sort 
+
+
 #### 2. uniq 
+
+
 #### 3. wc 
-#### 4.cut 
+
+#### 4. cut 
