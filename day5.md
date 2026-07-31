@@ -14,7 +14,8 @@
   - Counts the number of lines, words, characters, or bytes in a file.
   - Basic Syntax: "wc FILE"
 
-#### 4. cut 
+#### 4. cut: 
+  - Extracts selected columns or fields from each line of a file.
 
 #### 5. tr 
 
