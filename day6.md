@@ -21,7 +21,9 @@
 #### 1.ls -l:
 
 
-#### 2.chmod:
+#### 2.chmod(Change Mode):
+  - It changes permissions.
+  - Basic Syntax: "chmod PERMISSIONS FILE"
 
 
 #### 3.chgrp:
