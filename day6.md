@@ -19,7 +19,7 @@
 #### Commands:
 
 #### 1.ls -l:
-
+  - Use ls -l to display file and directory permissions.
 
 #### 2.chmod(Change Mode):
   - It changes permissions.
