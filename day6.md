@@ -8,6 +8,14 @@
       - Group
       - Others
 
+| **Letter** | **Meaning**   |
+| ---------- | ------------- |
+| `r`        | Read          |
+| `w`        | Write         |
+| `x`        | Execute       |
+| `-`        | No permission |
+
+
 #### Commands:
 
 #### 1.ls -l:
