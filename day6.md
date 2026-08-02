@@ -3,6 +3,10 @@
     - Read (r)
     - Write (w)
     - Execute (x)
+  - Three permission categories:
+      - Owner
+      - Group
+      - Others
 
 #### Commands:
 
