@@ -1,5 +1,8 @@
 ## Linux File Permissions and Ownership:
-
+  - Linux permissions control who can:
+    - Read (r)
+    - Write (w)
+    - Execute (x)
 
 #### Commands:
 
