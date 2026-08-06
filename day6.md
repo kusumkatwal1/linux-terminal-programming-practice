@@ -25,7 +25,7 @@
 #### Commands:
 
 #### 1.ls -l:
-    - Use ls -l to display file and directory permissions.
+    - Use "ls -l" to display file and directory permissions.
   
   | **Symbol** | **Meaning**   |
   | ---------- | ------------- |
