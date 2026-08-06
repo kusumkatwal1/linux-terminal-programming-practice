@@ -24,7 +24,7 @@
 
 #### Commands:
 
-#### 1.ls -l:
+#### 1. ls -l:
     - Use "ls -l" to display file and directory permissions.
   
   | **Symbol** | **Meaning**   |
@@ -34,7 +34,7 @@
   | `l`        | Symbolic link |
 
 
-#### 2.chmod(Change Mode):
+#### 2. chmod(Change Mode):
     - It changes permissions.
     - Basic Syntax: "chmod PERMISSIONS FILE"
     - Example: "chmod 755 script.sh"
