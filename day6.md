@@ -31,7 +31,7 @@
   - It changes permissions.
   - Basic Syntax: "chmod PERMISSIONS FILE"
 
-| **Symbol** | **Meaning**               |
+| **Symbol** | **Meaning**               |      
 | ---------- | ------------------------- |
 | `u`        | User (Owner)              |
 | `g`        | Group                     |
@@ -39,7 +39,17 @@
 | `a`        | All (User, Group, Others) |
 | `+`        | Add permission            |
 | `-`        | Remove permission         |
-| `=`        | Set exact permission      |
+| `=`        | Set exact permission      |  
+
+\
+| **Value** | **Meaning**   |
+| --------- | ------------- |
+| `777`     | Full access   |
+| `755`     | Owner full    |
+| `700`     | Owner only    |
+| `644`     | Standard file |
+| `600`     | Private file  |
+
 
 
 
