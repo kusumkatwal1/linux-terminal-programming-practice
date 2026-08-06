@@ -7,7 +7,7 @@
       - rwx
       - r-x
       - r--
-        represents:
+    - represents:
       - Owner
       - Group
       - Others
