@@ -13,12 +13,13 @@
       - Group
       - Others
 
-| **Letter** | **Meaning**   |
-| ---------- | ------------- |
-| `r`        | Read          |
-| `w`        | Write         |
-| `x`        | Execute       |
-| `-`        | No permission |
+| **Letter** | **Meaning**   | **Allows**                             |
+| ---------- | ------------- | -------------------------------------- |
+| `r`        | Read          | View and copy file contents            |
+| `w`        | Write         | Modify and delete file contents*       |
+| `x`        | Execute       | Run a file or enter a directory (`cd`) |
+| `-`        | No permission | No access                              |
+
 
 
 #### Commands:
