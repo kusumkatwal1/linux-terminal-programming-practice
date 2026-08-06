@@ -31,6 +31,17 @@
   - It changes permissions.
   - Basic Syntax: "chmod PERMISSIONS FILE"
 
+    | **Symbol** | **Meaning**               |
+| ---------- | ------------------------- |
+| `u`        | User (Owner)              |
+| `g`        | Group                     |
+| `o`        | Others                    |
+| `a`        | All (User, Group, Others) |
+| `+`        | Add permission            |
+| `-`        | Remove permission         |
+| `=`        | Set exact permission      |
+
+
 
 #### 3.chgrp:
 
