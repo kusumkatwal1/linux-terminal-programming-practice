@@ -4,6 +4,10 @@
     - Write (w)
     - Execute (x)
   - Three permission categories:
+      - rwx
+      - r-x
+      - r--
+        represents:
       - Owner
       - Group
       - Others
