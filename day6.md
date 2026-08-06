@@ -26,6 +26,12 @@
 
 #### 1.ls -l:
   - Use ls -l to display file and directory permissions.
+| **Symbol** | **Meaning**   |
+| ---------- | ------------- |
+| `-`        | Regular file  |
+| `d`        | Directory     |
+| `l`        | Symbolic link |
+
 
 #### 2.chmod(Change Mode):
     - It changes permissions.
