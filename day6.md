@@ -41,7 +41,7 @@
 | `-`        | Remove permission         |
 | `=`        | Set exact permission      |  
 
-\
+#### permission values:
 | **Value** | **Meaning**   |
 | --------- | ------------- |
 | `777`     | Full access   |
