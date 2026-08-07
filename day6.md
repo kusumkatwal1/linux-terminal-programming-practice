@@ -83,3 +83,13 @@
         Check:
         
         ls -l
+
+
+| **Command** | **Purpose**             |
+| ----------- | ----------------------- |
+| `ls -l`     | View permissions        |
+| `chmod`     | Change permissions      |
+| `chown`     | Change owner            |
+| `chgrp`     | Change group            |
+| `umask`     | Set default permissions |
+
