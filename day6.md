@@ -71,3 +71,15 @@
   - Syntax: "chgrp developers notes.txt"
 
 #### 5. umask:
+  - Determines the default permissions for newly created files and directories.
+  -
+  - eg:
+      umask 077
+      
+      Create a file:
+      
+      touch private.txt
+      
+      Check:
+      
+      ls -l
