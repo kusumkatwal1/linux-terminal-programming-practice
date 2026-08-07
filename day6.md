@@ -61,8 +61,10 @@
 
 
 
-#### 3. chown:
+#### 3. chown(Change Owner):
+  - It changes file ownership.
+  - Syntax: "chown OWNER FILE"
 
 #### 4.chgrp:
 
-#### 5.umask:
+#### 5. umask:
