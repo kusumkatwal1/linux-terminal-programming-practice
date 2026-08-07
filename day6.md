@@ -96,3 +96,24 @@
 | `chgrp`     | Change group            |
 | `umask`     | Set default permissions |
 
+
+## Cheat Sheet:
+    ls -l
+    
+    chmod 755 script.sh
+    
+    chmod 644 file.txt
+    
+    chmod +x script.sh
+    
+    chmod -R 755 directory
+    
+    chown alice file.txt
+    
+    chown alice:developers file.txt
+    
+    chgrp developers file.txt
+    
+    umask
+    
+    umask 077
