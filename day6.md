@@ -64,6 +64,8 @@
 #### 3. chown(Change Owner):
   - It changes file ownership.
   - Syntax: "chown OWNER FILE"
+  - Requires administrative privileges.
+  - Eg: "sudo chown alice:developers project.txt"
 
 #### 4.chgrp:
 
