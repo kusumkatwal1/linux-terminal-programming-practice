@@ -62,24 +62,24 @@
 
 
 #### 3. chown(Change Owner):
-  - It changes file ownership.
-  - Syntax: "chown OWNER FILE"
-  - Requires administrative privileges.
-  - Eg: "sudo chown alice:developers project.txt"
+    - It changes file ownership.
+    - Syntax: "chown OWNER FILE"
+    - Requires administrative privileges.
+    - Eg: "sudo chown alice:developers project.txt"
 
 #### 4.chgrp(Change Group):
-  - Syntax: "chgrp developers notes.txt"
+    - Syntax: "chgrp developers notes.txt"
 
 #### 5. umask:
-  - Determines the default permissions for newly created files and directories.
-  - Check it: "umask"
-  - eg:
-      umask 077
-      
-      Create a file:
-      
-      touch private.txt
-      
-      Check:
-      
-      ls -l
+    - Determines the default permissions for newly created files and directories.
+    - Check it: "umask"
+    - eg:
+        umask 077
+        
+        Create a file:
+        
+        touch private.txt
+        
+        Check:
+        
+        ls -l
