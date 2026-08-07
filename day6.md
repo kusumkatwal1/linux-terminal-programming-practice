@@ -67,6 +67,7 @@
   - Requires administrative privileges.
   - Eg: "sudo chown alice:developers project.txt"
 
-#### 4.chgrp:
+#### 4.chgrp(Change Group):
+  - Syntax: "chgrp developers notes.txt"
 
 #### 5. umask:
