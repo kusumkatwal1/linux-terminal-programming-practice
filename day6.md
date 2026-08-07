@@ -72,7 +72,7 @@
 
 #### 5. umask:
   - Determines the default permissions for newly created files and directories.
-  -
+  - Check it: "umask"
   - eg:
       umask 077
       
