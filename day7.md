@@ -1,2 +1,4 @@
 ## Users, Groups, and Privilege Management:
- #### Command 1: whoami
+ #### 1: whoami
+
+ #### 2.
