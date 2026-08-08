@@ -8,3 +8,7 @@
  #### 4. useradd:
 
 #### 5. usermod:
+
+#### 6. passwd:
+
+#### 7.
