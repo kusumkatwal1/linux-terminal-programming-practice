@@ -6,3 +6,5 @@
  #### 3. groups:
 
  #### 4. useradd:
+
+#### 5. usermod:
