@@ -1,17 +1,17 @@
 ## Linux File Permissions and Ownership:
-  - Linux permissions control who can:
-    - Read (r)
-    - Write (w)
-    - Execute (x)
-  - Three permission categories:
-      - rwx
-      - r-x
-      - r--
-        
-    - represents:
-      - Owner
-      - Group
-      - Others
+    - Linux permissions control who can:
+      - Read (r)
+      - Write (w)
+      - Execute (x)
+    - Three permission categories:
+        - rwx
+        - r-x
+        - r--
+          
+      - represents:
+        - Owner
+        - Group
+        - Others
 
 | **Letter** | **Meaning**   | **Allows**                             |
 | ---------- | ------------- | -------------------------------------- |
