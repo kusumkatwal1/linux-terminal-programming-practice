@@ -15,6 +15,7 @@
   - Syntax: "groups"
 
  #### 4. useradd:
+  - Create a new user.
 
 #### 5. usermod:
 
