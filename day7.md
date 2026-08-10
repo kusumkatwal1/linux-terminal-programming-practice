@@ -1,5 +1,7 @@
 ## Users, Groups, and Privilege Management:
- #### 1: whoami
+ #### 1: whoami:
+  - Display detailed identity information.
+  - Syntax: "id"
 
  #### 2. id:
 
