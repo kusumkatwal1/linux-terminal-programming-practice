@@ -2,6 +2,7 @@
  #### 1: whoami:
   - Display the current logged-in user.
   - Syntax: "whoami"
+  - Before running administrative commands.
   - Terminal Example: "student@linux:~$ whoami"
           - Output: "student"
 
