@@ -1,9 +1,11 @@
 ## Users, Groups, and Privilege Management:
  #### 1: whoami:
-  - Display detailed identity information.
-  - Syntax: "id"
+  - Display the current logged-in user.
+  - Syntax: "whoami"
 
  #### 2. id:
+  - Display detailed identity information.
+  - Syntax: "id"
 
  #### 3. groups:
 
