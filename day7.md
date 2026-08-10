@@ -16,6 +16,7 @@
 
  #### 4. useradd:
   - Create a new user.
+  - Syntax: sudo useradd USERNAME
 
 #### 5. usermod:
 
