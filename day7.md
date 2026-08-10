@@ -11,6 +11,8 @@
   - Syntax: "id"
 
  #### 3. groups:
+  - Show the groups a user belongs to.
+  - Syntax: "groups"
 
  #### 4. useradd:
 
