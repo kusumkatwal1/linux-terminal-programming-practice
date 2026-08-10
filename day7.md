@@ -2,6 +2,8 @@
  #### 1: whoami:
   - Display the current logged-in user.
   - Syntax: "whoami"
+  - Terminal Example: "student@linux:~$ whoami"
+          - Output: "student"
 
  #### 2. id:
   - Display detailed identity information.
