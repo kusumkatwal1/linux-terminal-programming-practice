@@ -29,6 +29,7 @@
 
 #### 9. sudo:
  - Run a single command with elevated privileges.
+ - sudo apt update.
 
 
 
