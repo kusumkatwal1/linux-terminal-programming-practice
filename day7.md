@@ -28,6 +28,7 @@
 #### 8. su:
 
 #### 9. sudo:
+ - Run a single command with elevated privileges.
 
 
 
