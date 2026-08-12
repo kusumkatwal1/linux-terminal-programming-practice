@@ -39,8 +39,8 @@
 
 #### 9. sudo:
     - Run a single command with elevated privileges.
-    - sudo apt update.
-    - sudo whoami
+    - Example: sudo apt update.
+    - Verify Your Identity: "sudo whoami"
 
 ## Cheat Sheet
     - whoami
