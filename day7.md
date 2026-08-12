@@ -32,6 +32,8 @@
  - Remove only the Account: "sudo userdel alice"
 
 #### 8. su:
+ - Switch to another user account.
+ - "su -" : if enabled, prompts for the root password.
 
 #### 9. sudo:
  - Run a single command with elevated privileges.
