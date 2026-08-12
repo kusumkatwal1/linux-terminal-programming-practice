@@ -20,8 +20,7 @@
 
 #### 5. usermod:
   - Modify an existing user.
-  - Add a User to a Group
-sudo usermod -aG docker alice
+  - Add a User to a Group: "sudo usermod -aG docker alice"
 
 #### 6. passwd:
 
