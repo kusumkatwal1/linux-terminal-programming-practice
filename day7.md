@@ -42,22 +42,22 @@
  - sudo whoami
 
 ## Cheat Sheet
-   whoami
+   - whoami
    
-   id
+   - id
    
-   groups
+   - groups
    
-   sudo useradd -m alice
+   - sudo useradd -m alice
    
-   sudo passwd alice
+   - sudo passwd alice
    
-   sudo usermod -aG docker alice
+   - sudo usermod -aG docker alice
    
-   sudo userdel -r alice
+   - sudo userdel -r alice
    
-   su - alice
+   - su - alice
    
-   sudo COMMAND
+   - sudo COMMAND
 
 
