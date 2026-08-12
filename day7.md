@@ -25,8 +25,8 @@
 
 #### 6. passwd:
  - Change passwords.
- - Change Your Password: "passwd"
-
+ - Example: Change Your Password: "passwd"
+ - Change Another User's Password: "sudo passwd alice" 
 #### 7. userdel:
 
 #### 8. su:
