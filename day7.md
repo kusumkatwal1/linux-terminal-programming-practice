@@ -34,6 +34,7 @@
 #### 8. su:
  - Switch to another user account.
  - "su -" : if enabled, prompts for the root password.
+ - su - alice : "- loads the target user's login env"
 
 #### 9. sudo:
  - Run a single command with elevated privileges.
