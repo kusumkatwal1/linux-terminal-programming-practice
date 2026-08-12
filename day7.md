@@ -28,6 +28,8 @@
  - Example: Change Your Password: "passwd"
  - Change Another User's Password: "sudo passwd alice" 
 #### 7. userdel:
+ - Delete a user.
+ - Remove only the Account: "sudo userdel alice"
 
 #### 8. su:
 
