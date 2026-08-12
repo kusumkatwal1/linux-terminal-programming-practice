@@ -57,5 +57,6 @@
   sudo userdel -r alice
   
   su - alice
+  sudo COMMAND
 
 
