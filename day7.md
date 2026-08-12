@@ -19,28 +19,28 @@
     - Syntax: "sudo useradd USERNAME"
 
 #### 5. usermod:
-   - Modify an existing user.
-   - Example: Add a User to a Group: "sudo usermod -aG docker alice"
-   - Here; "-a" = Append and "-G" = "Supplementary groups"
+    - Modify an existing user.
+    - Example: Add a User to a Group: "sudo usermod -aG docker alice"
+    - Here; "-a" = Append and "-G" = "Supplementary groups"
 
 #### 6. passwd:
-  - Change passwords.
-  - Example: Change Your Password: "passwd"
-  - Change Another User's Password: "sudo passwd alice"
+   - Change passwords.
+   - Example: Change Your Password: "passwd"
+   - Change Another User's Password: "sudo passwd alice"
     
 #### 7. userdel:
-  - Delete a user.
-  - Remove only the Account: "sudo userdel alice"
+   - Delete a user.
+   - Remove only the Account: "sudo userdel alice"
 
 #### 8. su:
-  - Switch to another user account.
-  - "su -" : if enabled, prompts for the root password.
-  - "su - alice": "-" loads the target user's login environment
+   - Switch to another user account.
+   - "su -" : if enabled, prompts for the root password.
+   - "su - alice": "-" loads the target user's login environment
 
 #### 9. sudo:
-  - Run a single command with elevated privileges.
-  - sudo apt update.
-  - sudo whoami
+   - Run a single command with elevated privileges.
+   - sudo apt update.
+   - sudo whoami
 
 ## Cheat Sheet
     - whoami
