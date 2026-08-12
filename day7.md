@@ -25,6 +25,7 @@
 
 #### 6. passwd:
  - Change passwords.
+ - Change Your Password: "passwd"
 
 #### 7. userdel:
 
