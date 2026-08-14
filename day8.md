@@ -2,10 +2,10 @@
   - A process is a running instance of a program.
 
 ## Command:
- #### ps:
+ #### 1. ps:
  
- #### pgrep:
+ #### 2. pgrep:
 
- #### pidof:
+ #### 3. pidof:
 
- ####
+ #### 4. top
