@@ -26,9 +26,15 @@
    - finds the PID of a running program.
    - eg: "pidof sshd"
 
- #### 4. top
+ #### 4. top:
+   - Continuously monitors running processes and system resources.
+   - eg: "top"
+   - "q": to quit
 
 #### 5. htop:
+  - User-friendly interactive process viewer; may need to be installed first.
+  - eg: "htop"
+  - Use "F10" or "q" to exit.
 
 #### 6. kill:
 
