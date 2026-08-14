@@ -7,8 +7,8 @@
 
 ## Commands:
  #### 1. ps(process status):
-  - ps displays information about processes or when you need a snapshot of running processes.
-  - 
+  - ps displays information about processes, or when you need a snapshot of running processes.
+  - eg: "ps aux" or "ps -ef"
 
         | **Column** | **Meaning**   |
         | ---------- | ------------- |
@@ -19,8 +19,12 @@
 
  
  #### 2. pgrep:
+   - searches for processes by name or other attributes and returns their PIDs.
+   - ex: "pgrep python"
 
  #### 3. pidof:
+   - finds the PID of a running program.
+   - eg: "pidof sshd"
 
  #### 4. top
 
