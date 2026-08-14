@@ -37,6 +37,9 @@
   - Use "F10" or "q" to exit.
 
 #### 6. kill:
+  - Sends a signal to a process.
+  - Basic syntax: "kill PID"
+  - eg: "kill 24321"
 
 #### 7. pkill:
 
