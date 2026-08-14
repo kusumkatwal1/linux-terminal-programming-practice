@@ -2,3 +2,6 @@
   - A process is a running instance of a program.
 
 ## Command:
+ #### ps:
+ 
+ #### pgrep:
