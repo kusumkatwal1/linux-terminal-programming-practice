@@ -1,7 +1,7 @@
 ## Linux Process Management and Job Control:
   - A process is a running instance of a program.
 
-## Command:
+## Commands:
  #### 1. ps:
  
  #### 2. pgrep:
@@ -12,4 +12,4 @@
 
 #### 5. htop:
 
-#### 6.
+#### 6. kill:
