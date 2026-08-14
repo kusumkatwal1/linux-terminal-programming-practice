@@ -6,7 +6,17 @@
   - PID 1 is usually systemd on modern Linux
 
 ## Commands:
- #### 1. ps:
+ #### 1. ps(process status):
+  - ps displays information about processes or when you need a snapshot of running processes.
+  - 
+
+        | **Column** | **Meaning**   |
+        | ---------- | ------------- |
+        | `PID`      | Process ID    |
+        | `TTY`      | Terminal      |
+        | `TIME`     | CPU time used |
+        | `CMD`      | Command       |
+
  
  #### 2. pgrep:
 
