@@ -1,5 +1,9 @@
 ## Linux Process Management and Job Control:
   - A process is a running instance of a program.
+  - PID → Unique ID of a process.
+  - PPID → ID of its parent process.
+  - Processes form a parent-child tree.
+  - PID 1 is usually systemd on modern Linux
 
 ## Commands:
  #### 1. ps:
