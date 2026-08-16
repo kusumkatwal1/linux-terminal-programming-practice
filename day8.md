@@ -44,13 +44,14 @@
 #### 7. pkill:
   - Sends signals to processes matching a name or other selection criteria.
   - eg: "pkill -TERM python3"  =>  may terminate multiple matching processes.
-  - use carefully
+  - Use carefully.
 
 #### 8. killall:
   - can send a signal to processes matching a process name.
   - eg: "killall -TERM myapplication"
       - "TERM" → Gracefully stop
-      - "pgrep -a name" → Check matching processes first
+      - "pgrep -a name" → Check matching processes first.
+      - "killall" = send a signal to processes by name
 
 #### 9. jobs:
 
