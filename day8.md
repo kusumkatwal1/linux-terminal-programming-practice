@@ -52,6 +52,9 @@
 #### 11. fg:
 
 #### 12. nohup:
+  - keeps a command running after you disconnect from SSH or close the terminal.
+  - nohup = run a command independently of the terminal session.
+  - 
 
 #### 13. nice:
 
