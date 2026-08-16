@@ -66,6 +66,9 @@
   - "bg": "resume a stopped job in the background"
 
 #### 11. fg:
+   - Bring a background job to the foreground.
+   - eg : "fg"
+   - "Ctrl+C": "to terminate the sleep command."
 
 #### 12. nohup:
   - keeps a command running after you disconnect from SSH or close the terminal.
