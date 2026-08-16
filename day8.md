@@ -47,6 +47,10 @@
   - use carefully
 
 #### 8. killall:
+  - can send a signal to processes matching a process name.
+  - eg: "killall -TERM myapplication"
+      - "TERM" → Gracefully stop
+      - "pgrep -a name" → Check matching processes first
 
 #### 9. jobs:
 
@@ -58,10 +62,10 @@
   - keeps a command running after you disconnect from SSH or close the terminal.
   - nohup = run a command independently of the terminal session.
   - eg: "nohup python3 server.py &"
-  - "nohup" → Ignore terminal hangup
-  - "&" → Run in background
-  - "Output" → Usually saved to nohup.out
-  - 
+      - "nohup" → Ignore terminal hangup
+      - "&" → Run in background
+      - "Output" → Usually saved to nohup.out
+    
 
 #### 13. nice:
 
