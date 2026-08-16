@@ -86,6 +86,7 @@
       - Range: "-20 to 19"
       - "20" = "Highest priority"
       - "19" = "Lowest priority"
+      - eg: "nice -n 10 sleep 100"
 #### 14. renice:
 
 
