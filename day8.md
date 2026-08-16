@@ -61,7 +61,8 @@
 
 #### 10. bg:
   - continues a stopped job in the background.
-  - 
+  - "Ctrl+Z": "Stop/suspend the current job"
+  - "bg": "resume a stopped job in the background"
 
 #### 11. fg:
 
