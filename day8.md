@@ -87,6 +87,8 @@
       - "20" = "Highest priority"
       - "19" = "Lowest priority"
       - eg: "nice -n 10 sleep 100"
+      - "nice" = "set process priority when starting it."
+      
 #### 14. renice:
 
 
