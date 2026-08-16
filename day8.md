@@ -54,6 +54,10 @@
 #### 12. nohup:
   - keeps a command running after you disconnect from SSH or close the terminal.
   - nohup = run a command independently of the terminal session.
+  - eg: "nohup python3 server.py &"
+  - "nohup" → Ignore terminal hangup
+  - "&" → Run in background
+  - "Output" → Usually saved to nohup.out
   - 
 
 #### 13. nice:
