@@ -54,6 +54,10 @@
       - "killall" = send a signal to processes by name
 
 #### 9. jobs:
+  - shows background or stopped jobs started by the current shell.
+  - eg: "sleep 300"
+      - "Ctrl+Z" → press it to suspend a running job.
+      - "jobs": Shows background/stopped jobs.
 
 #### 10. bg:
 
