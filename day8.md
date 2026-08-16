@@ -1,7 +1,7 @@
 ## Linux Process Management and Job Control:
       - A process is a running instance of a program.
-      - PID → Unique ID of a process.
-      - PPID → ID of its parent process.
+      - "PID" → Unique ID of a process.
+      - "PPID" → ID of its parent process.
       - Processes form a parent-child tree.
       - PID 1 is usually systemd on modern Linux
 
@@ -29,12 +29,12 @@
  #### 4. top:
       - Continuously monitors running processes and system resources.
       - eg: "top"
-      - "q": to quit
+            - "q": to quit
 
 #### 5. htop:
       - User-friendly interactive process viewer; may need to be installed first.
       - eg: "htop"
-      - Use "F10" or "q" to exit.
+            - Use "F10" or "q" to exit.
 
 #### 6. kill:
       - Sends a signal to a process.
@@ -43,40 +43,42 @@
 
 #### 7. pkill:
       - Sends signals to processes matching a name or other selection criteria.
-      - eg: "pkill -TERM python3"  =>  may terminate multiple matching processes.
+      - eg: "pkill -TERM python3"  =  may terminate multiple matching processes.
       - Use carefully.
 
 #### 8. killall:
       - can send a signal to processes matching a process name.
       - eg: "killall -TERM myapplication"
-            - "TERM" → Gracefully stop
-            - "pgrep -a name" → Check matching processes first.
+            - "TERM" = Gracefully stop
+            - "pgrep -a name" = Check matching processes first.
             - "killall" = send a signal to processes by name
 
 #### 9. jobs:
       - shows background or stopped jobs started by the current shell.
-      - eg: "sleep 300".   output:"job" => "[1]+  Stopped  sleep 300"
-      - "Ctrl+Z" → press it to suspend a running job.
-      - "jobs": Shows background/stopped jobs.
+      - eg: "sleep 300"
+            - output: "job" = "[1]+  Stopped  sleep 300"
+            - "Ctrl+Z" = press it to suspend a running job.
+            - "jobs" = Shows background/stopped jobs.
 
 #### 10. bg:
       - continues a stopped job in the background.
-      - eg: "sleep 300".   output:"bg" => "[1]+ sleep 300 &"
-      - "Ctrl+Z": "Stop/suspend the current job"
-      - "bg": "resume a stopped job in the background"
+      - eg: "sleep 300"
+            - output:"bg" = "[1]+ sleep 300 &"
+            - "Ctrl+Z": "Stop/suspend the current job"
+            - "bg": "resume a stopped job in the background"
 
 #### 11. fg:
       - Bring a background job to the foreground.
       - eg : "fg"
-      - "Ctrl+C": "to terminate the sleep command."
+            - "Ctrl+C": "to terminate the sleep command."
 
 #### 12. nohup:
       - Keeps a command running after you disconnect from SSH or close the terminal.
       - nohup = run a command independently of the terminal session.
       - eg: "nohup python3 server.py &"
-            - "nohup" → Ignore terminal hangup
-            - "&" → Run in background
-            - "Output" → Usually saved to nohup.out
+            - "nohup" = Ignore terminal hangup
+            - "&" = Run in the background
+            - "Output" = Usually saved to nohup.out
     
 
 #### 13. nice:
