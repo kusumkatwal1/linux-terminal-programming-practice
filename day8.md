@@ -42,6 +42,9 @@
   - eg: "kill 24321"
 
 #### 7. pkill:
+  - Sends signals to processes matching a name or other selection criteria.
+  - eg: "pkill -TERM python3"  =>  may terminate multiple matching processes.
+  - use carefully
 
 #### 8. killall:
 
