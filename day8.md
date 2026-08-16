@@ -97,57 +97,57 @@
       - "renice" = "change process priority."
 
 ## Command Cheat Sheet
-            #### Current identity
+            a. Current identity
             whoami
             
-            #### Process snapshot
+            b. Process snapshot
             ps
             
-            #### All processes
+            c. All processes
             ps aux
             
-            #### Full process information
+            d. Full process information
             ps -ef
             
-            #### Find processes
+            e. Find processes
             pgrep python
             
-            #### Find PID
+            f. Find PID
             pidof sshd
             
-            #### Live monitoring
+            g. Live monitoring
             top
             
-            #### Interactive monitoring
+            h. Interactive monitoring
             htop
             
-            #### Graceful termination
+            i. Graceful termination
             kill -TERM PID
             
-            #### Force termination
+            j. Force termination
             kill -KILL PID
             
-            #### Search and terminate by name
+            k. Search and terminate by name
             pkill -TERM NAME
             
-            #### Jobs
+            l. Jobs
             jobs
             
-            #### Background a stopped job
+            m. Background a stopped job
             bg %1
             
-            #### Foreground a job
+            n. Foreground a job
             fg %1
             
-            #### Start in background
+            o. Start in background
             command &
             
-            #### Keep running after logout
+            p. Keep running after logout
             nohup command &
             
-            #### Lower scheduling priority
+            q. Lower scheduling priority
             nice -n 10 command
             
-            #### Change priority
+            r. Change priority
             renice 10 -p PID
 
