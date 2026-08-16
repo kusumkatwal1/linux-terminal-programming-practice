@@ -92,6 +92,7 @@
 #### 14. renice:
       - changes the priority of an already-running process.
       - eg: "renice 10 -p 25100"
-      - 
+      - "10" = "New nice value"
+      - "25100" = "Process ID (PID)"
 
 
