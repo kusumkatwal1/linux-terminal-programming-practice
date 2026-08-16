@@ -82,7 +82,10 @@
     
 
 #### 13. nice:
-
+      - Starts a process with a different CPU scheduling priority.
+      - Range: -20 to 19
+      - 20 → Highest priority
+      - 19 → Lowest priority
 #### 14. renice:
 
 
