@@ -94,5 +94,6 @@
       - eg: "renice 10 -p 25100"
       - "10" = "New nice value"
       - "25100" = "Process ID (PID)"
+      - "renice" = "change process priority."
 
 
