@@ -19,12 +19,12 @@
 
  
  #### 2. pgrep:
-   - searches for processes by name or other attributes and returns their PIDs.
-   - ex: "pgrep python"
+         - searches for processes by name or other attributes and returns their PIDs.
+         - ex: "pgrep python"
 
  #### 3. pidof:
-   - finds the PID of a running program.
-   - eg: "pidof sshd"
+         - finds the PID of a running program.
+         - eg: "pidof sshd"
 
  #### 4. top:
    - Continuously monitors running processes and system resources.
