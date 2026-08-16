@@ -55,12 +55,13 @@
 
 #### 9. jobs:
   - shows background or stopped jobs started by the current shell.
-  - eg: "sleep 300".   output: "[1]+  Stopped  sleep 300"
+  - eg: "sleep 300".   output:"job" => "[1]+  Stopped  sleep 300"
       - "Ctrl+Z" → press it to suspend a running job.
       - "jobs": Shows background/stopped jobs.
 
 #### 10. bg:
   - continues a stopped job in the background.
+  - eg: "sleep 300".   output:"bg" => "[1]+ sleep 300 &"
   - "Ctrl+Z": "Stop/suspend the current job"
   - "bg": "resume a stopped job in the background"
 
