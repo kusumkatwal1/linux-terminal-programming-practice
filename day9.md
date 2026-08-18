@@ -61,6 +61,8 @@
     - Displays USB devices.
     - Syntax: "lsusb"
 
+
+
 ## Cheat Sheet
  #### a. Kernel
     uname
@@ -74,27 +76,27 @@
     hostname -I
     hostnamectl
     
-    c. Uptime
+#### c. Uptime
     uptime
     
-    d. Date/time
+#### d. Date/time
     date
     date '+%Y-%m-%d %H:%M:%S'
     
-    e. Time configuration
+#### e. Time configuration
     timedatectl
     
-    f. Architecture
+#### f. Architecture
     arch
     uname -m
     
-    g. CPU
+#### g. CPU
     lscpu
     
-    h. Memory
+#### h. Memory
     free -h
     
-    i. Block devices
+#### i. Block devices
     lsblk
     lsblk -f
     
