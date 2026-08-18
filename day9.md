@@ -31,3 +31,7 @@
 #### 7. arch:
 - Displays the system architecture.
 - Syntax: "arch"
+
+#### 8. lscpu:
+- Displays detailed CPU information.
+- Syntax: "lscpu"
