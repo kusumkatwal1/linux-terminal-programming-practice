@@ -56,3 +56,6 @@
 #### 13. lspci:
 - Displays PCI devices detected by Linux.
 - Syntax: "lspci"
+
+#### 14. lsusb:
+- Displays USB devices.
