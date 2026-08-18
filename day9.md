@@ -6,3 +6,5 @@
 - Syntax: "uname"
 
 #### 2. hostname:
+- Displays or temporarily sets the system hostname.
+- Syntax: "hostname"
