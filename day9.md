@@ -46,3 +46,4 @@
 - Syntax: "lsblk"
   
 #### 11. df:
+- Shows filesystem disk-space usage.
