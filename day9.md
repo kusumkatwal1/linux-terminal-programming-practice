@@ -60,3 +60,54 @@
 #### 14. lsusb:
     - Displays USB devices.
     - Syntax: "lsusb"
+
+## Cheat Sheet
+    a. Kernel
+    uname
+    uname -a
+    uname -r
+    uname -m
+    
+    b. Hostname
+    hostname
+    hostname -f
+    hostname -I
+    hostnamectl
+    
+    c. Uptime
+    uptime
+    
+    d. Date/time
+    date
+    date '+%Y-%m-%d %H:%M:%S'
+    
+    e. Time configuration
+    timedatectl
+    
+    f. Architecture
+    arch
+    uname -m
+    
+    g. CPU
+    lscpu
+    
+    h. Memory
+    free -h
+    
+    i. Block devices
+    lsblk
+    lsblk -f
+    
+    j. Filesystem space
+    df -h
+    df -i
+    
+    k. Directory usage
+    du -sh *
+    du -xhd1 /
+    
+    l. PCI devices
+    lspci
+    
+    m. USB devices
+    lsusb
