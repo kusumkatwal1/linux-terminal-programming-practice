@@ -16,4 +16,5 @@
 - Syntax: "hostnamectl"
 
 #### 4. uptime:
-- 
+- Shows system uptime, logged-in users, and load average.
+- Syntax: "uptime"
