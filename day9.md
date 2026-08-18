@@ -23,3 +23,6 @@
 - Displays the current system date and time.
 - Depends on the system timezone and configuration.
 - Syntax: "date"
+
+#### 6. timedatectl:
+- Displays system time and timezone configuration.
