@@ -47,3 +47,4 @@
   
 #### 11. df:
     - Shows filesystem disk-space usage.
+    - Syntax: "df"
