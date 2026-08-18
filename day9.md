@@ -44,3 +44,5 @@
 #### 10. lsblk:
 - Lists block devices.
 - Syntax: "lsblk"
+  
+#### 11. df:
