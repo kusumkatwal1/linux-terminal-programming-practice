@@ -35,3 +35,6 @@
 #### 8. lscpu:
 - Displays detailed CPU information.
 - Syntax: "lscpu"
+
+#### 9. free:
+-
