@@ -15,4 +15,5 @@
 - Provides several pieces/information of system information.
 - Syntax: "hostnamectl"
 
-uptime
+#### 4. uptime:
+- 
