@@ -29,4 +29,4 @@
     - Syntax: "timedatectl"
 
 #### 7. arch:
-- 
+- Displays the system architecture.
