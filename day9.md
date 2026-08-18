@@ -63,6 +63,8 @@
 
 
 
+
+
 ## Cheat Sheet
  #### a. Kernel
     uname
