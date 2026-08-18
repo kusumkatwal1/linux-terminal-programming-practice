@@ -62,13 +62,13 @@
     - Syntax: "lsusb"
 
 ## Cheat Sheet
-    a. Kernel
+ #### a. Kernel
     uname
     uname -a
     uname -r
     uname -m
     
-    b. Hostname
+#### b. Hostname
     hostname
     hostname -f
     hostname -I
