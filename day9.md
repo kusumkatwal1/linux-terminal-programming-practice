@@ -48,3 +48,7 @@
 #### 11. df:
     - Shows filesystem disk-space usage.
     - Syntax: "df"
+    
+#### 12. du:
+- Estimates the amount of disk space used by files and directories.
+- Syntax: "du"
