@@ -29,21 +29,21 @@
     - Syntax: "timedatectl"
 
 #### 7. arch:
-- Displays the system architecture.
-- Syntax: "arch"
+    - Displays the system architecture.
+    - Syntax: "arch"
 
 #### 8. lscpu:
-- Displays detailed CPU information.
-- Syntax: "lscpu"
+    - Displays detailed CPU information.
+    - Syntax: "lscpu"
 
 #### 9. free:
-- Displays memory and swap usage.
-- Syntax: "free"
-- lsblk
+    - Displays memory and swap usage.
+    - Syntax: "free"
+    - lsblk
 
 #### 10. lsblk:
-- Lists block devices.
-- Syntax: "lsblk"
+    - Lists block devices.
+    - Syntax: "lsblk"
   
 #### 11. df:
-- Shows filesystem disk-space usage.
+    - Shows filesystem disk-space usage.
