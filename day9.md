@@ -18,3 +18,8 @@
 #### 4. uptime:
 - Shows system uptime, logged-in users, and load average.
 - Syntax: "uptime"
+
+#### 5. date:
+- Displays the current system date and time.
+- Depends on the system timezone and configuration.
+- Syntax: "date"
