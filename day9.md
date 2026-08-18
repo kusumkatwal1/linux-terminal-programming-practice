@@ -27,3 +27,6 @@
 #### 6. timedatectl:
     - Displays system time and timezone configuration.
     - Syntax: "timedatectl"
+
+#### 7. arch:
+- 
