@@ -12,4 +12,7 @@
 
 #### 3. hostnamectl:
 - Displays and manages system hostname information on systems using systemd.
-- 
+- Provides several pieces/information of system information.
+- Syntax: "hostnamectl"
+
+uptime
