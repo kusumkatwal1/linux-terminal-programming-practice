@@ -52,3 +52,7 @@
 #### 12. du:
 - Estimates the amount of disk space used by files and directories.
 - Syntax: "du"
+
+#### 13. lspci:
+- Displays PCI devices detected by Linux.
+- Syntax: "lspci"
