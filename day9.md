@@ -7,4 +7,7 @@
 
 #### 2. hostname:
 - Displays or temporarily sets the system hostname.
-- Syntax: "hostname"
+- Use before performing important administrative work.
+- Syntax: "hostname".
+
+#### 3. hostnamectl
