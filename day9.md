@@ -37,4 +37,5 @@
 - Syntax: "lscpu"
 
 #### 9. free:
--
+- Displays memory and swap usage.
+- Syntax: "free"
