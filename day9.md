@@ -100,16 +100,16 @@
     lsblk
     lsblk -f
     
-    j. Filesystem space
+#### j. Filesystem space
     df -h
     df -i
     
-    k. Directory usage
+#### k. Directory usage
     du -sh *
     du -xhd1 /
     
-    l. PCI devices
+#### l. PCI devices
     lspci
     
-    m. USB devices
+#### m. USB devices
     lsusb
