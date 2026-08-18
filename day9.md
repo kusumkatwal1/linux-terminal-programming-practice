@@ -39,6 +39,8 @@
 #### 9. free:
 - Displays memory and swap usage.
 - Syntax: "free"
+- lsblk
 
 #### 10. lsblk:
 - Lists block devices.
+- Syntax: "lsblk"
