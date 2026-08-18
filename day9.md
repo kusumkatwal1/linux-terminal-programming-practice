@@ -10,4 +10,6 @@
 - Use before performing important administrative work.
 - Syntax: "hostname".
 
-#### 3. hostnamectl
+#### 3. hostnamectl:
+- Displays and manages system hostname information on systems using systemd.
+- 
