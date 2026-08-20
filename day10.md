@@ -5,3 +5,5 @@
    - Some repetitive commands are listed below:
       
 ## Commands:
+#### 1. pwd:
+- Shows your current working directory.
