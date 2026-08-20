@@ -26,4 +26,8 @@
 #### 4. blkid:
 - identifies block devices and filesystem metadata.
 
+#### 5. findmnt:
+- shows mounted filesystems and their relationships.
+- Syntax: "findmnt".
+
   
