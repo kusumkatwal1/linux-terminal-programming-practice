@@ -10,3 +10,8 @@
 
 #### 2. ls:
 - Important for filesystem navigation.
+
+#### lsblk:
+- it specifically for storage investigation.
+
+  
