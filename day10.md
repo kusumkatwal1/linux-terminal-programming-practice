@@ -9,4 +9,4 @@
 - Shows your current working directory.
 
 #### 2. ls:
-- 
+- Important for filesystem navigation.
