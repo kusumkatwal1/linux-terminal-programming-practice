@@ -15,19 +15,19 @@
          
 ## Commands:
 #### 1. pwd:
-- Shows your current working directory.
+      - Shows your current working directory.
 
 #### 2. ls:
-- Important for filesystem navigation.
+      - Important for filesystem navigation.
 
 #### 3. lsblk:
-- it specifically for storage investigation.
+      - it specifically for storage investigation.
 
 #### 4. blkid:
-- identifies block devices and filesystem metadata.
+      - identifies block devices and filesystem metadata.
 
 #### 5. findmnt:
-- shows mounted filesystems and their relationships.
-- Syntax: "findmnt".
+      - shows mounted filesystems and their relationships.
+      - Syntax: "findmnt".
 
   
