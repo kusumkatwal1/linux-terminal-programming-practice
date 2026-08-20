@@ -7,3 +7,6 @@
 ## Commands:
 #### 1. pwd:
 - Shows your current working directory.
+
+#### 2. ls:
+- 
