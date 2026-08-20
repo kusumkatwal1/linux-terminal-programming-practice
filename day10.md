@@ -20,7 +20,10 @@
 #### 2. ls:
 - Important for filesystem navigation.
 
-#### lsblk:
+#### 3. lsblk:
 - it specifically for storage investigation.
+
+#### 4. blkid:
+- identifies block devices and filesystem metadata.
 
   
