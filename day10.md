@@ -24,10 +24,16 @@
       - it specifically for storage investigation.
 
 #### 4. blkid:
-      - identifies block devices and filesystem metadata.
+      - Identifies block devices and filesystem metadata.
 
 #### 5. findmnt:
       - shows mounted filesystems and their relationships.
       - Syntax: "findmnt".
+
+#### 6. df and mount:
+      - These are repetitive commands
+      - Filesystem → Mount Point.
+      - Attaches a filesystem to a directory.
+
 
   
