@@ -36,10 +36,10 @@
       - mount: Attaches a filesystem to a directory.
 
 #### 7. umount:
-- Detaches a filesystem.
+      - Detaches a filesystem.
 
 #### 8. tmpfs:
-- Linux can mount a filesystem backed primarily by memory.
+      - Linux can mount a filesystem backed primarily by memory.
 
 
   
