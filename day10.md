@@ -35,7 +35,8 @@
       - DF: Filesystem → Mount Point.
       - mount: Attaches a filesystem to a directory.
 
-#### 7. 
+#### 7. mount:
+- Attaches a filesystem to a directory.
 
 
   
