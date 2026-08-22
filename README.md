@@ -16,7 +16,7 @@ Hands-on Linux terminal practice covering commands, shell scripting, permissions
     13. Networking commands
     14. Remote access with SSH
     15. Disk usage and system monitoring
-    16. Git and command-line workflow basics
+    16. Git and command-line workflow basics.
     17. Real-world terminal practice examples
 
 ## Skills Developed
