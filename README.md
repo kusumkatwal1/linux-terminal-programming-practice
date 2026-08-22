@@ -8,16 +8,16 @@ Hands-on Linux terminal practice covering commands, shell scripting, permissions
     4. Linux file system structure
     5. Users, groups, and permissions
     6. Package installation and system updates
-    7. Process and job management
+    7. Process and job management.
     8. Environment variables and PATH
     9. Shell scripting basics
     10. Input/output redirection and pipes
-    11. Searching, filtering, and text processing
+    11. Searching, filtering, and text processing.
     13. Networking commands
     14. Remote access with SSH
     15. Disk usage and system monitoring
     16. Git and command-line workflow basics.
-    17. Real-world terminal practice examples
+    17. Real-world terminal practice examples.
 
 ## Skills Developed:
 Through this repository, I am developing practical skills in:
@@ -31,7 +31,7 @@ Through this repository, I am developing practical skills in:
         -  Technical documentation
 
 ## File Structure:
-    - "README.md": This file contains the guidelines for the Linux learning progress
+    - "README.md": This file contains the guidelines for the Linux learning progress.
     - "Linux-basics.md": this file contains content for the linux basic.
 
 © 2025 Kusum Katwal
