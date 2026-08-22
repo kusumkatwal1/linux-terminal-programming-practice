@@ -31,7 +31,7 @@
       - Syntax: "findmnt".
 
 #### 6. df and mount:
-      - These are repetitive commands
+      - These are repetitive commands.
       - Filesystem → Mount Point.
       - Attaches a filesystem to a directory.
 
