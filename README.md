@@ -1,7 +1,7 @@
 # linux-terminal-programming-practice:
 Hands-on Linux terminal practice covering commands, shell scripting, permissions, networking, automation, and real-world command-line workflows.
 
-# Topics Covered
+# Topics Covered:
     1. Linux introduction and command-line basics
     2. File and directory navigation
     3. File creation, viewing, editing, copying, moving, and deletion
@@ -19,7 +19,7 @@ Hands-on Linux terminal practice covering commands, shell scripting, permissions
     16. Git and command-line workflow basics.
     17. Real-world terminal practice examples
 
-## Skills Developed
+## Skills Developed:
 Through this repository, I am developing practical skills in:
         - Linux command-line usage
         - Terminal navigation
