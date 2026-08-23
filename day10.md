@@ -41,5 +41,26 @@
 #### 8. tmpfs:
       - Linux can mount a filesystem backed primarily by memory.
 
+## 
+pwd                         # Current directory
+ls -lah                     # List files
+lsblk                       # List block devices
+lsblk -f                    # Filesystem information
+sudo blkid                  # UUID and filesystem type
+findmnt                     # Show mounted filesystems
+findmnt /                   # Check a specific mount
+df -h                       # Disk usage
+df -i                       # Inode usage
+du -sh *                    # Directory usage
+du -xhd1 /                  # Root directory usage
 
+sudo mkdir -p /data         # Create mount point
+sudo mount /dev/sdb1 /data  # Mount filesystem
+sudo umount /data           # Unmount filesystem
+
+sudo lsof /data             # Find processes using mount
+sudo fuser -vm /data        # Find users/processes
+
+cat /etc/fstab              # View mount configuration
+sudo mount -a               # Test fstab
   
