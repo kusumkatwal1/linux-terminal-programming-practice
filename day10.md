@@ -41,7 +41,7 @@
 #### 8. tmpfs:
       - Linux can mount a filesystem backed primarily by memory.
 
-## 
+## Cheat Code:
             pwd                         # Current directory
             ls -lah                     # List files
             lsblk                       # List block devices
