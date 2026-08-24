@@ -1,6 +1,6 @@
 ## Linux Directory Structure & Filesystem Hierarchy: 
-
 - The simplified way:
+  
         /       → filesystem root
         /etc    → configuration
         /home   → user homes
