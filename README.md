@@ -1,5 +1,5 @@
 # linux-terminal-programming-practice:
-Hands-on Linux terminal practice covering commands, shell scripting, permissions, networking, automation, and real-world command-line workflows.
+   - Hands-on Linux terminal practice covering commands, shell scripting, permissions, networking, automation, and real-world command-line workflows.
 
 # Topics Covered:
     1. Linux introduction and command-line basics
@@ -8,11 +8,11 @@ Hands-on Linux terminal practice covering commands, shell scripting, permissions
     4. Linux file system structure
     5. Users, groups, and permissions
     6. Package installation and system updates
-    7. Process and job management.
+    7. Process and job management
     8. Environment variables and PATH
     9. Shell scripting basics
     10. Input/output redirection and pipes
-    11. Searching, filtering, and text processing.
+    11. Searching, filtering, and text processing
     13. Networking commands
     14. Remote access with SSH
     15. Disk usage and system monitoring
@@ -32,6 +32,6 @@ Through this repository, I am developing practical skills in:
 
 ## File Structure:
     - "README.md": This file contains the guidelines for the Linux learning progress.
-    - "Linux-basics.md": this file contains content for the linux basic.
+    - "Linux-basics.md": This file contains content for the linux basic.
 
 © 2025 Kusum Katwal
