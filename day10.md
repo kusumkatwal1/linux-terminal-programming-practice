@@ -64,3 +64,6 @@
             cat /etc/fstab              # View mount configuration
             sudo mount -a               # Test fstab
   
+
+
+@kusum katwal
