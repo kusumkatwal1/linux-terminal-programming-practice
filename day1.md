@@ -29,7 +29,7 @@
       
   #### 4. Make Directory(mkdir):
      - mkdir: It creates a new directory.
-     - syntax: "mkdir"
+     - Syntax: "mkdir"
      - eg:
            mkdir linux-lab
      
@@ -40,7 +40,7 @@
 
 ## Complete Terminal Session
     i. student@linux:~$ pwd
-    - /home/student
+        - /home/student
   
     ii. student@linux:~$ mkdir -p linux-handbook/{notes,scripts,exercises,projects}
     
@@ -49,13 +49,13 @@
     iv. student@linux:~/linux-handbook$ touch README.md notes/linux-basics.md scripts/hello.sh
     
     v. student@linux:~/linux-handbook$ ls
-    - README.md  exercises  notes  projects  scripts
+        - README.md  exercises  notes  projects  scripts
     
     vi. student@linux:~/linux-handbook$ ls notes
-    - linux-basics.md
+        - linux-basics.md
     
     g.student@linux:~/linux-handbook$ ls scripts
-    - hello.sh
+        - hello.sh
 
 ## Topic Cheat Sheet
 
