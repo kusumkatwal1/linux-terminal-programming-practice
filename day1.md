@@ -1,8 +1,8 @@
 ## Linux Basics:
-  - Learn what Linux is, why it is used, and how the terminal works.
+    - Learn what Linux is, why it is used, and how the terminal works.
 ### # Navigating the Linux Filesystem:
-  - Means moving between directories and finding files on a Linux system.
-  - "directories" = "folders". i.e "**/ directory**"
+    - Means moving between directories and finding files on a Linux system.
+    - "directories" = "folders". i.e "/directory"
     
 ### # Major Commands:
   #### 1. PWD:
