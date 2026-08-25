@@ -114,3 +114,5 @@
     
 #### m. USB devices
     lsusb
+
+@kusum katwal
