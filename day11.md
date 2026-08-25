@@ -17,3 +17,6 @@
         /srv    → service-provided data
         /mnt    → temporary/manual mounts
         /media  → removable media
+
+
+@kusum katwal
