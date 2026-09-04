@@ -58,3 +58,5 @@
 | `cat file \| sort \| uniq`          | Display unique sorted lines                 |
 | `cat file \| sort \| uniq \| wc -l` | Count unique lines                          |
 
+
+@Kusum Katwal
