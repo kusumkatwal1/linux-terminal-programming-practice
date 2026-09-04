@@ -115,4 +115,4 @@
 #### m. USB devices
     lsusb
 
-@kusum katwal
+@Kusum Katwal
